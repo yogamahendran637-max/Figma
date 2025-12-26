@@ -29,6 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+```
   <img
     className="absolute top-[70px] left-[34px] w-[458px] h-[95px] aspect-[4.83] object-cover"
     alt="Saveetha Engineering College logo and header"
@@ -43,6 +44,7 @@ Figma
     HACKATHON
   </h2>
 </main>
+```
 # OUTPUT:
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
