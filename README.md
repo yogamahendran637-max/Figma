@@ -46,5 +46,9 @@ Figma
 </main>
 ```
 # OUTPUT:
+
+<img width="1920" height="1080" alt="Screenshot (43) (2)" src="https://github.com/user-attachments/assets/929c34d5-6d35-4315-83b0-5afc90f4a7b2" />
+
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
